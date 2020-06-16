@@ -1,4 +1,4 @@
-# TCMSymptomNorm symNormHS 
+# A TCM Symptom Normalization method: symNormHS 
 This is a traditional Chinese medicine symptom normalization method. We design and implement a text matching method a text matching model that integrates hierarchical semantic information with an attention mechanism, named it symNormHS.
 
 This method is useful to solve the challenge that same symptoms in different literal description, one-to-many symptom description and different symptoms in similar literal description.
