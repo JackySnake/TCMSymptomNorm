@@ -6,6 +6,7 @@ This method is useful to solve the challenge that same symptoms in different lit
 pytorch 1.2.0
 
 ## directory structure
+```
 ├─checkpoints           the model checkpoint(include RS and DSS)
 ├─data
 │  ├─dataset            train/dev/test(predicet.txt)
@@ -17,6 +18,7 @@ pytorch 1.2.0
 │  ├─testResult-80-DSS  
 │  └─testResult-80-RS
 └─utils
+```
 Some data need to download from BaiduYun. The link is in the directory respectively.
 ## DataSet
 The dataset from real-world data
